@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: "\U0001F41B Report a *reproducible* bug and help us improve"
 title: ''
 labels: bug
 assignees: ''
