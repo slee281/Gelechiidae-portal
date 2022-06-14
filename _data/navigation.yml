@@ -8,6 +8,8 @@
   menu: # Dropdown menu (one level deep only)
   - text: Base theme demo
     href: https://hp-base-theme.gbif-staging.org/
+  - text: Other sites using the theme
+    href: https://github.com/gbif/?q=hp-&type=all&language=&sort=
   - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
   - text: "Docs" # Title for block of menu items
   - text: Jekyll documentation
